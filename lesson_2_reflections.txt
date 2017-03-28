@@ -20,3 +20,8 @@ Branches would help with the introduction of a major feature or a major change
 to the version or even when just testing out different things that you don't
 necessarily want to break the master code.  They would help because you don't
 have to worry that something will be majorly wrong with the main code.
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams make it easy to see what commits are accessible from the current
+branch since you can just follow it back as a straight line.
