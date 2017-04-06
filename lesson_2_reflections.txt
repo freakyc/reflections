@@ -31,3 +31,15 @@ What is the result of merging two branches together? Why do we represent it in t
 Merge combines all the changes in one branch in to another branch.  It's
 represented in the diagram the way it is because all commits made in both
 branches are accessible after the merge.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+PROs
+-Takes less time to do a merge
+-The situations which auto merge runs shouldn't require manual intervention
+-Less chance that you see something wrong
+
+CONs
+-Less control over the merge
+-There is a possibility to merge in a change you don't want
+
